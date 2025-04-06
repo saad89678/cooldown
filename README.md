@@ -1,0 +1,2 @@
+# cooldown
+devlopment script fivem 
